@@ -26,6 +26,9 @@
 
 [![youtube (2)](https://user-images.githubusercontent.com/83681664/136712430-8ae65290-1df9-4ed9-a1d9-1d771642b957.png)](https://www.youtube.com/channel/UC4ehUjFHjy7J0pqxKlTdOPA)
 
+<h2 aling="left">📝Various certificates:</h2> 
+
+
 <h2 align="left">🥇 Cisco Badges:</h2>
 
 ![introduction-to-iot (1)](https://user-images.githubusercontent.com/83681664/127756045-caf0cdbe-ccd0-4e18-a710-ebfdd63f7f8a.png)
