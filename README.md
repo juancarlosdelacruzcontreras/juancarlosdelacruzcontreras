@@ -45,16 +45,27 @@
 
 <h2 aling="left">📝Various certificates:</h2> 
 
-![Juan CarlosDe la Cruz Contr-CCNA3_May-Agos-1-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754545-981cd074-bc05-4196-aaec-f6c1b2f05041.jpg)
-![Juan CarlosDe la Cruz Contr-CCNAS-Enero-Abri-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754546-205cc97a-6f33-4a8f-82b9-391616247cd9.jpg)
-![Juan CarlosDe la Cruz Contr-Conexion de Rede-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754548-b2885c01-5d4b-4005-b992-5319adff62d5.jpg)
-![Juan CarlosDe la Cruz Contr-Learnathon2021_O-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754550-803406d1-aeaa-4f3c-84c2-531973b92d8a.jpg)
-![Juan CarlosDe la Cruz Contr-Learnathon2021_V-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754553-899abbfd-e52c-451b-9362-a0798d8f8472.jpg)
-![Juan CarlosDe la Cruz Contr-PROGRAMACIÓN_DE_-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754554-37d6cc24-4570-4b2b-b24f-c6a9f7b0109c.jpg)
-![Juan CarlosDe la Cruz Contr-Sistemas Operati-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754555-19d3f424-4ded-4c71-b3aa-130ffe3b50d8.jpg)
-[![AWS-Alojamiento-UDEMY_pages-to-jpg-0001](https://user-images.githubusercontent.com/83681664/139754556-0d3e95e5-a76a-4533-aba7-442ee418147d.jpg)](https://drive.google.com/file/d/1A2U-BdMrGE6O14fq5Wi0vE59jjbGH-4f/view?usp=sharing "AWS Alojamiento de Sitio Web en Modo Serverless - UDEMY")
-![Hubbell_pages-to-jpg-0001](https://user-images.githubusercontent.com/83681664/139754559-8092984f-ee24-4cdc-85c0-c320a7626190.jpg)
-![Juan CarlosDe la Cruz Contr-5F_CCNAv7Bridgin-certificate_pages-to-jpg-0001](https://user-images.githubusercontent.com/83681664/139754561-177e1af3-d7fd-471c-9821-71a8398a8ef4.jpg)
-![Juan CarlosDe la Cruz Contr-CCNA1-1E-SEP-DIC-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754562-8489fc8c-f966-44d2-9690-7602313a4899.jpg)
-![Juan CarlosDe la Cruz Contr-CCNA2-2E-ENE-ABR-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754563-dde1019a-5015-4902-a788-d48e23a5067a.jpg)
+[![Juan CarlosDe la Cruz Contr-CCNA3_May-Agos-1-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754545-981cd074-bc05-4196-aaec-f6c1b2f05041.jpg)](https://drive.google.com/file/d/13kYUCQHoV60JTrRjskYPo2PByWt49B-R/view?usp=sharing "CCNA Routing and Switching: Scaling Networks - Cisco Networking Academy")
+
+[![Juan CarlosDe la Cruz Contr-CCNAS-Enero-Abri-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754546-205cc97a-6f33-4a8f-82b9-391616247cd9.jpg)](https://drive.google.com/file/d/1HeP0VL2i7T6OXHbV1eLw600Fv42yBhAr/view?usp=sharing "CCNA Security - Cisco Networking Academy")
+
+[![Juan CarlosDe la Cruz Contr-Conexion de Rede-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754548-b2885c01-5d4b-4005-b992-5319adff62d5.jpg)](https://drive.google.com/file/d/1JoMUtBUQG8XN6b5iQgu8t7hMVW8u-NUC/view?usp=sharing "CCNA Routing and Switching: Connecting Networks - Cisco Networking Academy")
+
+[![Juan CarlosDe la Cruz Contr-Learnathon2021_O-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754550-803406d1-aeaa-4f3c-84c2-531973b92d8a.jpg)](https://drive.google.com/file/d/1pXOyp8Lf2cnU4VYoLLTQJq9xuJSY1NCy/view?usp=sharing "Introducción a IoT - Cisco Networking Academy")
+
+[![Juan CarlosDe la Cruz Contr-Learnathon2021_V-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754553-899abbfd-e52c-451b-9362-a0798d8f8472.jpg)](https://drive.google.com/file/d/1-ihSdnMzxseZ5O6aGeSitX1Y6yy8enME/view?usp=sharing "Introducción a la Seguridad Cibernética - Cisco Networking Academy")
+
+[![Juan CarlosDe la Cruz Contr-PROGRAMACIÓN_DE_-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754554-37d6cc24-4570-4b2b-b24f-c6a9f7b0109c.jpg)](https://drive.google.com/file/d/13LfILehF_WcbH8wRMU9O-pg3C-f2MOtT/view?usp=sharing "Emerging Technologies Workshop: Network Programmability with Cisco APIC-EM - Cisco Networking Academy")
+
+[![Juan CarlosDe la Cruz Contr-Sistemas Operati-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754555-19d3f424-4ded-4c71-b3aa-130ffe3b50d8.jpg)](https://drive.google.com/file/d/1djAgUFAHzAltkzlGM1QO2E2m2M974brk/view?usp=sharing "NDG Linux Essentials - Cisco Networking Academy")
+
+[![AWS-Alojamiento-UDEMY_pages-to-jpg-0001](https://user-images.githubusercontent.com/83681664/139754556-0d3e95e5-a76a-4533-aba7-442ee418147d.jpg)](https://drive.google.com/file/d/13ElnwLW-pqGy5VunzhCTSzyiQtGMNjU1/view?usp=sharing "AWS Alojamiento de Sitio Web en Modo Serverless - UDEMY")
+
+[![Hubbell_pages-to-jpg-0001](https://user-images.githubusercontent.com/83681664/139754559-8092984f-ee24-4cdc-85c0-c320a7626190.jpg)](https://drive.google.com/file/d/1xvSJgudxgy1ZUYFavAnM00sJzSej3MiE/view?usp=sharing "Mission Critical Warranty - Hubbell Premise Wiring")
+
+[![Juan CarlosDe la Cruz Contr-5F_CCNAv7Bridgin-certificate_pages-to-jpg-0001](https://user-images.githubusercontent.com/83681664/139754561-177e1af3-d7fd-471c-9821-71a8398a8ef4.jpg)](https://drive.google.com/file/d/16IgJDba3Gfx38NmGGujpyR055LQq20D6/view?usp=sharing "CCNAv7: Bridging - Cisco Networking Academy")
+
+[![Juan CarlosDe la Cruz Contr-CCNA1-1E-SEP-DIC-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754562-8489fc8c-f966-44d2-9690-7602313a4899.jpg)](https://drive.google.com/file/d/1SkNeYtM_zuc2Rk0DLufmVKJUVkuQyMBz/view?usp=sharing "CCNA Routing and Switching: Introducción a redes - Cisco Networking Academy")
+
+[![Juan CarlosDe la Cruz Contr-CCNA2-2E-ENE-ABR-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754563-dde1019a-5015-4902-a788-d48e23a5067a.jpg)](https://drive.google.com/file/d/1S6cU0qllVw3VHwPygazKOz7ZvWSwQzY9/view?usp=sharing "CCNA Routing and Switching: Principios básicos de routing y switching - Cisco Networking Academy")
 
