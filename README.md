@@ -31,11 +31,11 @@
 
 <h2 align="left">🥇 Cisco Badges:</h2>
 
-[![introduction-to-iot (1)](https://user-images.githubusercontent.com/83681664/127756045-caf0cdbe-ccd0-4e18-a710-ebfdd63f7f8a.png)](https://www.credly.com/badges/548fbb98-2160-41ba-a140-1ff2cef98741/public_url)
-![introduction-to-cybersecurity (1)](https://user-images.githubusercontent.com/83681664/127756054-143486f8-4229-4bcd-9643-bc54088176d9.png)
-![networking-academy-learn-a-thon-2020 (2)](https://user-images.githubusercontent.com/83681664/127756065-13b0a983-d941-4179-817f-54b2b968fa7e.png)
+[![introduction-to-iot (1)](https://user-images.githubusercontent.com/83681664/127756045-caf0cdbe-ccd0-4e18-a710-ebfdd63f7f8a.png)](https://www.credly.com/badges/a506533b-7f0a-46f0-bf52-91ad254997d6/public_url)
+[![introduction-to-cybersecurity (1)](https://user-images.githubusercontent.com/83681664/127756054-143486f8-4229-4bcd-9643-bc54088176d9.png)](https://www.credly.com/badges/548fbb98-2160-41ba-a140-1ff2cef98741/public_url)
+[![networking-academy-learn-a-thon-2020 (2)](https://user-images.githubusercontent.com/83681664/127756065-13b0a983-d941-4179-817f-54b2b968fa7e.png)](https://www.credly.com/badges/4d4c29b4-7a3f-40f8-bb38-a80030b23a3c/public_url)
 
-#### Others
+#### Others knowledge: 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
