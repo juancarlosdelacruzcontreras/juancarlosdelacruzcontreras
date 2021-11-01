@@ -31,7 +31,7 @@
 
 <h2 align="left">🥇 Cisco Badges:</h2>
 
-![introduction-to-iot (1)](https://user-images.githubusercontent.com/83681664/127756045-caf0cdbe-ccd0-4e18-a710-ebfdd63f7f8a.png)
+[![introduction-to-iot (1)](https://user-images.githubusercontent.com/83681664/127756045-caf0cdbe-ccd0-4e18-a710-ebfdd63f7f8a.png)](https://www.credly.com/badges/548fbb98-2160-41ba-a140-1ff2cef98741/public_url)
 ![introduction-to-cybersecurity (1)](https://user-images.githubusercontent.com/83681664/127756054-143486f8-4229-4bcd-9643-bc54088176d9.png)
 ![networking-academy-learn-a-thon-2020 (2)](https://user-images.githubusercontent.com/83681664/127756065-13b0a983-d941-4179-817f-54b2b968fa7e.png)
 
