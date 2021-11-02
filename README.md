@@ -30,7 +30,7 @@
 
 <h2 align="left">🥇 Cisco Badges:</h2>
 
-<a href="https://www.credly.com/badges/a506533b-7f0a-46f0-bf52-91ad254997d6/public_url"><img height="130" src="https://user-images.githubusercontent.com/83681664/139774640-d9b4a267-0c7a-484c-a3a9-2f753da92a26.png" alt="Learn-A-Thon 2020" title="Networking Academy Learn-A-Thon 2020"></a>
+<a href="https://www.credly.com/badges/4d4c29b4-7a3f-40f8-bb38-a80030b23a3c/public_url"><img height="130" src="https://user-images.githubusercontent.com/83681664/139774640-d9b4a267-0c7a-484c-a3a9-2f753da92a26.png" alt="Learn-A-Thon 2020" title="Networking Academy Learn-A-Thon 2020"></a>
 <a href="https://www.credly.com/badges/a506533b-7f0a-46f0-bf52-91ad254997d6/public_url"><img height="130" src="https://user-images.githubusercontent.com/83681664/139774639-c2cef7a1-dbca-4817-a791-c338b0b3df24.png" alt="IoT" title="Introduction to IoT"></a>
 <a href="https://www.credly.com/badges/548fbb98-2160-41ba-a140-1ff2cef98741/public_url"><img height="130" src="https://user-images.githubusercontent.com/83681664/139774641-70b3ec53-7525-4202-a6eb-ad60c3731cfb.png" alt="Cybersecurity" title="Introduction to Cybersecurity"></a>
 
