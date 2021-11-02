@@ -49,7 +49,7 @@
 
 <a href="https://drive.google.com/file/d/1A2U-BdMrGE6O14fq5Wi0vE59jjbGH-4f/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772254-eca3d46d-137e-4de0-b064-62f64179075c.jpg" alt="AWS in Udemy" title="AWS Alojamiento de Sitio Web en Modo Serverless - Udemy"></a>
 
-<code><a href:"https://www.cisco.com/c/es_mx/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></a></code>
+<code><a href="https://www.cisco.com/c/es_mx/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></a></code>
 
 <a href="https://drive.google.com/file/d/1tUyJ4PgqiNvC9v9G5OmhRW49kaVPa7HU/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772638-911bb68b-5a2e-4504-80d7-26c4548a2396.jpg" alt="Linux Essentials" title="NDG Linux Essentials - Cisco Networking Academy"></a>
 <a href="https://drive.google.com/file/d/1iq6v6sbFH0cWDAwmn5S-5-EXKIGJWyUQ/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772664-dd323754-efc1-4139-b953-595a25c28117.jpg" alt="Scaling Networks" title="CCNA Routing and Switching: Scaling Networks - Cisco Networking Academy"></a>
