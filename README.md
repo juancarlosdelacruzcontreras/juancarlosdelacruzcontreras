@@ -30,9 +30,9 @@
 
 <h2 align="left">🥇 Cisco Badges:</h2>
 
-[![introduction-to-iot (1)](https://user-images.githubusercontent.com/83681664/127756045-caf0cdbe-ccd0-4e18-a710-ebfdd63f7f8a.png)](https://www.credly.com/badges/a506533b-7f0a-46f0-bf52-91ad254997d6/public_url)
-[![introduction-to-cybersecurity (1)](https://user-images.githubusercontent.com/83681664/127756054-143486f8-4229-4bcd-9643-bc54088176d9.png)](https://www.credly.com/badges/548fbb98-2160-41ba-a140-1ff2cef98741/public_url)
-[![networking-academy-learn-a-thon-2020 (2)](https://user-images.githubusercontent.com/83681664/127756065-13b0a983-d941-4179-817f-54b2b968fa7e.png)](https://www.credly.com/badges/4d4c29b4-7a3f-40f8-bb38-a80030b23a3c/public_url)
+<a href="https://www.credly.com/badges/a506533b-7f0a-46f0-bf52-91ad254997d6/public_url"><img height="130" src="https://user-images.githubusercontent.com/83681664/139774640-d9b4a267-0c7a-484c-a3a9-2f753da92a26.png" alt="Learn-A-Thon 2020" title="Networking Academy Learn-A-Thon 2020"></a>
+<a href="https://www.credly.com/badges/a506533b-7f0a-46f0-bf52-91ad254997d6/public_url"><img height="130" src="https://user-images.githubusercontent.com/83681664/139774639-c2cef7a1-dbca-4817-a791-c338b0b3df24.png" alt="IoT" title="Introduction to IoT"></a>
+<a href="https://www.credly.com/badges/548fbb98-2160-41ba-a140-1ff2cef98741/public_url"><img height="130" src="https://user-images.githubusercontent.com/83681664/139774641-70b3ec53-7525-4202-a6eb-ad60c3731cfb.png" alt="Cybersecurity" title="Introduction to Cybersecurity"></a>
 
 #### Others knowledge: 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -45,26 +45,23 @@
 
 <h2 aling="left">📝Various certificates:</h2> 
 
-<code><a href="https://www.hubbell.com/" target="_blank"><img height="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/09/hubbell-logo-768x344.png"></a></code>
+<code><a href="https://www.udemy.com/user/juan-carlos-de-la-cruz-112/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/udemy/udemy-ar21.svg"></a></code>
 
-<a href="https://drive.google.com/file/d/1ly0uV_-piZR7INmKvhNC59FkRsIp6SD3/view?usp=sharing"><img height="120" src="https://user-images.githubusercontent.com/83681664/139770729-c1e4b7c5-8273-45df-a351-e5aeb999a6a8.jpg"></a>
-
-
-[![Hubbell_pages-to-jpg-0001](https://user-images.githubusercontent.com/83681664/139754559-8092984f-ee24-4cdc-85c0-c320a7626190.jpg)](https://drive.google.com/file/d/1xvSJgudxgy1ZUYFavAnM00sJzSej3MiE/view?usp=sharing "Mission Critical Warranty - Hubbell Premise Wiring")
+<a href="https://drive.google.com/file/d/1A2U-BdMrGE6O14fq5Wi0vE59jjbGH-4f/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772254-eca3d46d-137e-4de0-b064-62f64179075c.jpg" alt="AWS in Udemy" title="AWS Alojamiento de Sitio Web en Modo Serverless - Udemy"></a>
 
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></a></code>
 
-[![Juan CarlosDe la Cruz Contr-CCNA3_May-Agos-1-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754545-981cd074-bc05-4196-aaec-f6c1b2f05041.jpg)](https://drive.google.com/file/d/13kYUCQHoV60JTrRjskYPo2PByWt49B-R/view?usp=sharing "CCNA Routing and Switching: Scaling Networks - Cisco Networking Academy")
-[![Juan CarlosDe la Cruz Contr-CCNAS-Enero-Abri-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754546-205cc97a-6f33-4a8f-82b9-391616247cd9.jpg)](https://drive.google.com/file/d/1HeP0VL2i7T6OXHbV1eLw600Fv42yBhAr/view?usp=sharing "CCNA Security - Cisco Networking Academy")
-[![Juan CarlosDe la Cruz Contr-Conexion de Rede-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754548-b2885c01-5d4b-4005-b992-5319adff62d5.jpg)](https://drive.google.com/file/d/1JoMUtBUQG8XN6b5iQgu8t7hMVW8u-NUC/view?usp=sharing "CCNA Routing and Switching: Connecting Networks - Cisco Networking Academy")
-[![Juan CarlosDe la Cruz Contr-Learnathon2021_O-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754550-803406d1-aeaa-4f3c-84c2-531973b92d8a.jpg)](https://drive.google.com/file/d/1pXOyp8Lf2cnU4VYoLLTQJq9xuJSY1NCy/view?usp=sharing "Introducción a IoT - Cisco Networking Academy")
-[![Juan CarlosDe la Cruz Contr-Learnathon2021_V-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754553-899abbfd-e52c-451b-9362-a0798d8f8472.jpg)](https://drive.google.com/file/d/1-ihSdnMzxseZ5O6aGeSitX1Y6yy8enME/view?usp=sharing "Introducción a la Seguridad Cibernética - Cisco Networking Academy")
-[![Juan CarlosDe la Cruz Contr-PROGRAMACIÓN_DE_-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754554-37d6cc24-4570-4b2b-b24f-c6a9f7b0109c.jpg)](https://drive.google.com/file/d/13LfILehF_WcbH8wRMU9O-pg3C-f2MOtT/view?usp=sharing "Emerging Technologies Workshop: Network Programmability with Cisco APIC-EM - Cisco Networking Academy")
-[![Juan CarlosDe la Cruz Contr-Sistemas Operati-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754555-19d3f424-4ded-4c71-b3aa-130ffe3b50d8.jpg)](https://drive.google.com/file/d/1djAgUFAHzAltkzlGM1QO2E2m2M974brk/view?usp=sharing "NDG Linux Essentials - Cisco Networking Academy")
-[![Juan CarlosDe la Cruz Contr-5F_CCNAv7Bridgin-certificate_pages-to-jpg-0001](https://user-images.githubusercontent.com/83681664/139754561-177e1af3-d7fd-471c-9821-71a8398a8ef4.jpg)](https://drive.google.com/file/d/16IgJDba3Gfx38NmGGujpyR055LQq20D6/view?usp=sharing "CCNAv7: Bridging - Cisco Networking Academy")
-[![Juan CarlosDe la Cruz Contr-CCNA1-1E-SEP-DIC-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754562-8489fc8c-f966-44d2-9690-7602313a4899.jpg)](https://drive.google.com/file/d/1SkNeYtM_zuc2Rk0DLufmVKJUVkuQyMBz/view?usp=sharing "CCNA Routing and Switching: Introducción a redes - Cisco Networking Academy")
-[![Juan CarlosDe la Cruz Contr-CCNA2-2E-ENE-ABR-certificate_page-0001](https://user-images.githubusercontent.com/83681664/139754563-dde1019a-5015-4902-a788-d48e23a5067a.jpg)](https://drive.google.com/file/d/1S6cU0qllVw3VHwPygazKOz7ZvWSwQzY9/view?usp=sharing "CCNA Routing and Switching: Principios básicos de routing y switching - Cisco Networking Academy")
+<a href="https://drive.google.com/file/d/1iq6v6sbFH0cWDAwmn5S-5-EXKIGJWyUQ/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772664-dd323754-efc1-4139-b953-595a25c28117.jpg" alt="Scaling Networks" title="CCNA Routing and Switching: Scaling Networks - Cisco Networking Academy"></a>
+<a href="https://drive.google.com/file/d/1zH1yZt4vCx0f7q-O_UowzGGSiX6vqGUc/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772666-72a7ff00-2769-46f7-951e-6146c37b7f3f.jpg" alt="Security" title="CCNA Security - Cisco Networking Academy"></a>
+<a href="https://drive.google.com/file/d/1uB9sTE03xxAm1-WTFBr0AdM3DqQ527xp/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772655-9685d8c9-fc36-4137-a7a8-2f85a06d2a1e.jpg" alt="Connecting Networks" title="CCNA Routing and Switching: Connecting Networks - Cisco Networking Academy"></a>
+<a href="https://drive.google.com/file/d/1xkeSOQ77x-cdXkPbomS_mqB1IUlZgCnP/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772660-fbdc62c9-7419-49df-bc82-fe423849b95d.jpg" alt="Introducción a IoT" title="Introducción a IoT - Cisco Networking Academy"></a>
+<a href="https://drive.google.com/file/d/1c0Wv9NrXq7SgnueJisIt7oTaq38nTAxT/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772646-02f0ab9d-8313-4b19-bec6-73ec369971d8.jpg" alt="Introducción a la Seguridad Cibernética" title="Introducción a la Seguridad Cibernética - Cisco Networking Academy"></a>
+<a href="https://drive.google.com/file/d/1gvoLTPofu_yTCfr9CVeqO0V5dZKQ2jH2/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772650-4214f0c4-06da-4b20-9b3e-442cc2554997.jpg" alt="Network Programmability with Cisco APIC-EM" title="Emerging Technologies Workshop: Network Programmability with Cisco APIC-EM - Cisco Networking Academy"></a>
+<a href="https://drive.google.com/file/d/1tUyJ4PgqiNvC9v9G5OmhRW49kaVPa7HU/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772638-911bb68b-5a2e-4504-80d7-26c4548a2396.jpg" alt="Linux Essentials" title="NDG Linux Essentials - Cisco Networking Academy"></a>
+<a href="https://drive.google.com/file/d/1ltUZyKKAGJI5Up1lFkexPbDIIkNDDC8_/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139773659-22db1152-1302-4639-8862-705f9f9ba673.jpg" alt="Bridging" title="CCNAv7: Bridging - Cisco Networking Academy"></a>
+<a href="https://drive.google.com/file/d/1ZlT46HKDRCQe0u9fo2oldhmskyt1a6pL/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772669-78264132-a74d-40cd-8d84-ba2fdf9f7402.jpg" alt="Introducción a redes" title="CCNA Routing and Switching: Introducción a redes - Cisco Networking Academy"></a>
+<a href="https://drive.google.com/file/d/1YyyIpzeZBa2Jsxp67ddAchdDdvR30ifT/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772673-37f8f5a6-7a41-49b7-a99a-ee43d123fb28.jpg" alt="Principios básicos de routing y switching" title="CCNA Routing and Switching: Principios básicos de routing y switching - Cisco Networking Academy"></a>
 
-<code><a href="https://www.udemy.com/user/juan-carlos-de-la-cruz-112/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/udemy/udemy-ar21.svg"></a></code>
+<code><a href="https://www.hubbell.com/" target="_blank"><img height="30" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/09/hubbell-logo-768x344.png"></a></code>
 
-[![AWS-Alojamiento-UDEMY_pages-to-jpg-0001](https://user-images.githubusercontent.com/83681664/139754556-0d3e95e5-a76a-4533-aba7-442ee418147d.jpg)](https://drive.google.com/file/d/13ElnwLW-pqGy5VunzhCTSzyiQtGMNjU1/view?usp=sharing "AWS Alojamiento de Sitio Web en Modo Serverless - UDEMY")
+<a href="https://drive.google.com/file/d/1ly0uV_-piZR7INmKvhNC59FkRsIp6SD3/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139770729-c1e4b7c5-8273-45df-a351-e5aeb999a6a8.jpg" alt="Mission Critical Warranty" title="Mission Critical Warranty - Hubbell Premise Wiring"></a>
