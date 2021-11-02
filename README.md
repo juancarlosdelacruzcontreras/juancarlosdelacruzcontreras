@@ -62,6 +62,6 @@
 <a href="https://drive.google.com/file/d/1ZlT46HKDRCQe0u9fo2oldhmskyt1a6pL/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772669-78264132-a74d-40cd-8d84-ba2fdf9f7402.jpg" alt="Introducción a redes" title="CCNA Routing and Switching: Introducción a redes - Cisco Networking Academy"></a>
 <a href="https://drive.google.com/file/d/1YyyIpzeZBa2Jsxp67ddAchdDdvR30ifT/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139772673-37f8f5a6-7a41-49b7-a99a-ee43d123fb28.jpg" alt="Principios básicos de routing y switching" title="CCNA Routing and Switching: Principios básicos de routing y switching - Cisco Networking Academy"></a>
 
-<code><a href="https://www.hubbell.com/" target="_blank"><img height="30" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/09/hubbell-logo-768x344.png"></a></code>
+<code><a href="https://www.hubbell.com/" target="_blank"><img height="45" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/09/hubbell-logo-768x344.png"></a></code>
 
 <a href="https://drive.google.com/file/d/1ly0uV_-piZR7INmKvhNC59FkRsIp6SD3/view?usp=sharing"><img height="160" src="https://user-images.githubusercontent.com/83681664/139770729-c1e4b7c5-8273-45df-a351-e5aeb999a6a8.jpg" alt="Mission Critical Warranty" title="Mission Critical Warranty - Hubbell Premise Wiring"></a>
